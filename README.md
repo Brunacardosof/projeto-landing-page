@@ -1,21 +1,15 @@
-# projeto-landing-page
-📄 Technical Challenge: Develop a Landing Page for DNC School.
+# Projeto Landing Page
 
-🏁 Overview:
-This challenge aims to assess your technical skills in building a landing page using HTML, CSS, and adding interactive features with JavaScript.
+- The challenge was building a landing page using HTML, CSS, and adding interactive features with JavaScript.
+- This project consists of a single main page, which includes key sections such as: information about the school and courses, testimonials from former students, and a contact form for further inquiries.
 
-📁 Pages:
-This project consists of a single main page, which includes key sections such as: information about the school and courses, testimonials from former students, and a contact form for further inquiries.
+## Technologies Used
 
-🚀 Technologies:
+- **HTML** for structure
+- **CSS** for styling
+- **JavaScript** for interactivity
+- **Figma** for design
+- Sheet Monkey for form integration with Google Sheets
 
-HTML, CSS, JavaScript<br>
-Figma (for layout design)<br>
-Sheet Monkey for form integration with Google Sheets<br>
-
-🎯 Steps:
-Design the layout based on the Figma mockup.
-Integrate the contact form using Sheet Monkey and Google Sheets.
-
-👾 Live Site Link: <br>
+## Live Site Link: 
 https://dnc-school-project.netlify.app/
